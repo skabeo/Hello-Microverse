@@ -28,13 +28,13 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-*install git
+-install git
 
 ### Setup
 
 Clone this repository to your desired folder:
 
- *git clone git@github.com:myaccount/my-project.git
+ -git clone git@github.com:myaccount/my-project.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
